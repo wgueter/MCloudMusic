@@ -1,0 +1,12 @@
+rootProject.name = "MCloudMusic"
+include ':voice'
+include ':libaudio'
+include ':libvideo'
+include ':libcommon_ui'
+include ':libimage'
+include ':libnetwork'
+include ':libpullalive'
+include ':libqrcode'
+include ':libshare'
+include ':libupdate'
+include ':libwebview'
