@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">voice</string>
+
+
+
+    <string name="home_login_tip">voice</string>
+    <string name="home_login_tip_2">voice</string>
 </resources>
