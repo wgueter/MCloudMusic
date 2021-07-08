@@ -1,4 +1,4 @@
-package com.android.libcommonui;
+package com.android.libcommon_ui;
 
 import org.junit.Test;
 

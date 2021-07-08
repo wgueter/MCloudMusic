@@ -2,7 +2,8 @@
     <string name="app_name">voice</string>
 
 
-
     <string name="home_login_tip">voice</string>
     <string name="home_login_tip_2">voice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

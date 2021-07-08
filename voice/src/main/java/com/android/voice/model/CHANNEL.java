@@ -27,11 +27,11 @@ public enum  CHANNEL {
         this.value = value;
     }
 
-    private int getValue() {
+    public int getValue() {
         return value;
     }
 
-    private String getKey() {
+    public String getKey() {
         return key;
     }
 }
